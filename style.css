@@ -1,0 +1,18 @@
+body{
+    background: #d2d2c1 url(assets/fundo.png);
+    font: 1rem Arial, Helvetica, sans-serif;
+}
+
+#principal{
+    width: 56.54rem;
+}
+
+header{
+    background: #c5c5b2;
+    padding: 1.1rem;
+}
+
+#sobre{
+    background: #e8e8d9;
+    padding: 0.8rem;
+}
